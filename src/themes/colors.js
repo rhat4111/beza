@@ -1,0 +1,9 @@
+export const SUCCESS = '#227821';
+export const LIGHT_SUCCESS = '#22782153';
+export const WARNING = '#FFD575';
+export const LIGHT_WARNING = '#FFD57574';
+export const DANGER = '#CB3838';
+export const BLACK = '#000000';
+export const WHITE = '#FFFFFF';
+export const SECONDARY = '#F6F6F6';
+export const LIGHT = '#808080';
